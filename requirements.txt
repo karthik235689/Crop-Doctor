@@ -28,5 +28,4 @@ torchvision==0.13.1
 twilio==7.12.1
 typing_extensions==4.3.0
 urllib3==1.26.11
-Werkzeug==0.16.0
 WTForms==3.0.1
