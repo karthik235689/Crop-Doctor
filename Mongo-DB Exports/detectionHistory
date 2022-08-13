@@ -1,0 +1,2243 @@
+[{
+  "_id": {
+    "$oid": "623c432a112c667386ed715c"
+  },
+  "createdAt": "2022-03-24 15:38:42.211404",
+  "ip": "169.168.25.10",
+  "city": "Mumbai",
+  "district": "mumbai city",
+  "state": "MH",
+  "location": {
+    "lat": "289.2414",
+    "lon": "42.13"
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c432d112c667386ed715d"
+  },
+  "createdAt": "2022-03-24 15:38:45.086609",
+  "ip": "169.168.25.10",
+  "city": "Mumbai",
+  "district": "mumbai city",
+  "state": "MH",
+  "location": {
+    "lat": "289.2414",
+    "lon": "42.13"
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c432f112c667386ed715e"
+  },
+  "createdAt": "2022-03-24 15:38:47.075918",
+  "ip": "169.168.25.10",
+  "city": "Mumbai",
+  "district": "mumbai city",
+  "state": "MH",
+  "location": {
+    "lat": "289.2414",
+    "lon": "42.13"
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c4331112c667386ed715f"
+  },
+  "createdAt": "2022-03-24 15:38:49.387883",
+  "ip": "169.168.25.10",
+  "city": "Mumbai",
+  "district": "mumbai city",
+  "state": "MH",
+  "location": {
+    "lat": "289.2414",
+    "lon": "42.13"
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c4339112c667386ed7160"
+  },
+  "createdAt": "2022-03-24 15:38:57.323979",
+  "ip": "169.168.25.10",
+  "city": "Mumbai",
+  "district": "mumbai city",
+  "state": "MH",
+  "location": {
+    "lat": "289.2414",
+    "lon": "42.13"
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c433b112c667386ed7161"
+  },
+  "createdAt": "2022-03-24 15:38:59.301621",
+  "ip": "169.168.25.10",
+  "city": "Mumbai",
+  "district": "mumbai city",
+  "state": "MH",
+  "location": {
+    "lat": "289.2414",
+    "lon": "42.13"
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c433d112c667386ed7162"
+  },
+  "createdAt": "2022-03-24 15:39:01.493754",
+  "ip": "169.168.25.10",
+  "city": "Mumbai",
+  "district": "mumbai city",
+  "state": "MH",
+  "location": {
+    "lat": "289.2414",
+    "lon": "42.13"
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c4586112c667386ed7163"
+  },
+  "createdAt": "2022-03-24 15:48:46.894613",
+  "ip": "169.168.25.10",
+  "city": "Mumbai",
+  "district": "mumbai city",
+  "state": "MH",
+  "location": {
+    "lat": "289.2414",
+    "lon": "42.13"
+  },
+  "detected_class": "Potato___healthy",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c49ec112c667386ed7164"
+  },
+  "createdAt": "2022-03-24 16:07:32.257587",
+  "ip": "169.168.25.10",
+  "city": "Mumbai",
+  "district": "mumbai city",
+  "state": "MH",
+  "location": {
+    "lat": "289.2414",
+    "lon": "42.13"
+  },
+  "detected_class": "Tomato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c52e219d734913552b481"
+  },
+  "createdAt": "2022-03-24 16:45:46.224647",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c531d8c3feaf175b83aac"
+  },
+  "createdAt": "2022-03-24 16:46:45.319531",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c534b30ddb818c7f31622"
+  },
+  "createdAt": "2022-03-24 16:47:31.001858",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c538df32b9b346b611316"
+  },
+  "createdAt": "2022-03-24 16:48:37.897542",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5451b4e7fbf1e19552ff"
+  },
+  "createdAt": "2022-03-24 16:51:53.501875",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c55587027499c52071b0c"
+  },
+  "createdAt": "2022-03-24 16:56:16.905686",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Early_blight",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5c4a9b74b08ebdc2cbcb"
+  },
+  "createdAt": "2022-03-24 17:25:54.678379",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5c7bf81327adfcfdb7a9"
+  },
+  "createdAt": "2022-03-24 17:26:43.535863",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5c94f81327adfcfdb7aa"
+  },
+  "createdAt": "2022-03-24 17:27:08.686324",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5cc4f81327adfcfdb7ab"
+  },
+  "createdAt": "2022-03-24 17:27:56.788292",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5cf7f81327adfcfdb7ac"
+  },
+  "createdAt": "2022-03-24 17:28:47.426921",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5d2401e4b25ebff1718a"
+  },
+  "createdAt": "2022-03-24 17:29:32.930434",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5d51599fc6e9ccee9ddf"
+  },
+  "createdAt": "2022-03-24 17:30:17.422535",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5d55599fc6e9ccee9de0"
+  },
+  "createdAt": "2022-03-24 17:30:21.614687",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5d56599fc6e9ccee9de1"
+  },
+  "createdAt": "2022-03-24 17:30:22.828936",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5d6a599fc6e9ccee9de2"
+  },
+  "createdAt": "2022-03-24 17:30:42.317241",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5d7a599fc6e9ccee9de3"
+  },
+  "createdAt": "2022-03-24 17:30:58.636973",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5d93599fc6e9ccee9de4"
+  },
+  "createdAt": "2022-03-24 17:31:23.233978",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5df42b13acf0a7f1e3e8"
+  },
+  "createdAt": "2022-03-24 17:33:00.816476",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5e47f1f0b4525a61869d"
+  },
+  "createdAt": "2022-03-24 17:34:23.583186",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5e60f1f0b4525a61869e"
+  },
+  "createdAt": "2022-03-24 17:34:48.852658",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5e7ced69ff5a0bc41e9c"
+  },
+  "createdAt": "2022-03-24 17:35:16.286799",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5f3aed69ff5a0bc41e9d"
+  },
+  "createdAt": "2022-03-24 17:38:26.443298",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c5ff2ed69ff5a0bc41e9e"
+  },
+  "createdAt": "2022-03-24 17:41:30.530868",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Cercospora_leaf_spotGray_leaf_spot",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c6281ed69ff5a0bc41e9f"
+  },
+  "createdAt": "2022-03-24 17:52:25.555941",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___healthy",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "623c6299ed69ff5a0bc41ea0"
+  },
+  "createdAt": "2022-03-24 17:52:49.546257",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "6257b3cb448c7b2555f66e1d"
+  },
+  "createdAt": "2022-04-14 05:40:27.436337",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "6257b3f9448c7b2555f66e1e"
+  },
+  "createdAt": "2022-04-14 05:41:13.825486",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "6257b412448c7b2555f66e1f"
+  },
+  "createdAt": "2022-04-14 05:41:38.719242",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "6257b415448c7b2555f66e20"
+  },
+  "createdAt": "2022-04-14 05:41:41.799652",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "6257b418448c7b2555f66e21"
+  },
+  "createdAt": "2022-04-14 05:41:44.721108",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "6257b430448c7b2555f66e22"
+  },
+  "createdAt": "2022-04-14 05:42:08.814097",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___healthy",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "diseaseId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "6257e872d813589f4ae286e8"
+  },
+  "createdAt": "2022-04-14 09:25:06.926562",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f8"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc787"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "6257fb941f27028e7ae008d5"
+  },
+  "createdAt": "2022-04-14 10:46:44.322882",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "6257fb9f1f27028e7ae008d6"
+  },
+  "createdAt": "2022-04-14 10:46:55.552571",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "62580f16a626a535c27505d1"
+  },
+  "createdAt": "2022-04-14 12:09:58.713265",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Strawberry___Leaf_scorch",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fd"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc78a"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "62580f64a626a535c27505d2"
+  },
+  "createdAt": "2022-04-14 12:11:16.486411",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Pepper_bell___Bacterial_spot",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fb"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc786"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "62580fcda626a535c27505d3"
+  },
+  "createdAt": "2022-04-14 12:13:01.776189",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Pepper_bell___Bacterial_spot",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fb"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc786"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "62580fd5a626a535c27505d4"
+  },
+  "createdAt": "2022-04-14 12:13:09.964112",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "62580fd9a626a535c27505d5"
+  },
+  "createdAt": "2022-04-14 12:13:13.146094",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "62581100a626a535c27505d6"
+  },
+  "createdAt": "2022-04-14 12:18:08.070371",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Early_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f7"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc78c"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "62581182a626a535c27505d7"
+  },
+  "createdAt": "2022-04-14 12:20:18.748584",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Pepper_bell___Bacterial_spot",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fb"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc786"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625811c5a626a535c27505d8"
+  },
+  "createdAt": "2022-04-14 12:21:25.898002",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Late_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f7"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc78d"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "62581215a626a535c27505d9"
+  },
+  "createdAt": "2022-04-14 12:22:45.734141",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Pepper_bell___Bacterial_spot",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fb"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc786"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625812c1143625a8b5aca980"
+  },
+  "createdAt": "2022-04-14 12:25:37.753183",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Late_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f7"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc78d"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "6259030a9af8b6a360fcefae"
+  },
+  "createdAt": "2022-04-15 05:30:50.964054",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f8"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc787"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625aa46413d8eae7becb7b33"
+  },
+  "createdAt": "2022-04-16 11:11:32.302385",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625aa47813d8eae7becb7b34"
+  },
+  "createdAt": "2022-04-16 11:11:52.774731",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625aa57513d8eae7becb7b35"
+  },
+  "createdAt": "2022-04-16 11:16:05.267355",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625aa5a113d8eae7becb7b36"
+  },
+  "createdAt": "2022-04-16 11:16:49.653381",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab02c13d8eae7becb7b37"
+  },
+  "createdAt": "2022-04-16 12:01:48.896887",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab05cd0abaf342241759c"
+  },
+  "createdAt": "2022-04-16 12:02:36.721464",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab06f13d8eae7becb7b38"
+  },
+  "createdAt": "2022-04-16 12:02:55.591821",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab08c13d8eae7becb7b39"
+  },
+  "createdAt": "2022-04-16 12:03:24.983989",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab09813d8eae7becb7b3a"
+  },
+  "createdAt": "2022-04-16 12:03:36.703840",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab19613d8eae7becb7b3b"
+  },
+  "createdAt": "2022-04-16 12:07:50.199847",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab1de13d8eae7becb7b3c"
+  },
+  "createdAt": "2022-04-16 12:09:02.979525",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab20813d8eae7becb7b3d"
+  },
+  "createdAt": "2022-04-16 12:09:44.460019",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab24113d8eae7becb7b3e"
+  },
+  "createdAt": "2022-04-16 12:10:41.831087",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab25f13d8eae7becb7b3f"
+  },
+  "createdAt": "2022-04-16 12:11:11.632728",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab29713d8eae7becb7b40"
+  },
+  "createdAt": "2022-04-16 12:12:07.193517",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab30b03aa1b6b598f3bff"
+  },
+  "createdAt": "2022-04-16 12:14:03.979108",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Strawberry___Leaf_scorch",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fd"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc78a"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab38303aa1b6b598f3c00"
+  },
+  "createdAt": "2022-04-16 12:16:03.936954",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Strawberry___Leaf_scorch",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fd"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc78a"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab44a13d8eae7becb7b41"
+  },
+  "createdAt": "2022-04-16 12:19:22.301543",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab48803aa1b6b598f3c01"
+  },
+  "createdAt": "2022-04-16 12:20:24.701293",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Late_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f7"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc78d"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab80113d8eae7becb7b42"
+  },
+  "createdAt": "2022-04-16 12:35:13.251456",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab81813d8eae7becb7b43"
+  },
+  "createdAt": "2022-04-16 12:35:36.392712",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab82213d8eae7becb7b44"
+  },
+  "createdAt": "2022-04-16 12:35:46.655273",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab82713d8eae7becb7b45"
+  },
+  "createdAt": "2022-04-16 12:35:51.344525",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ab86513d8eae7becb7b46"
+  },
+  "createdAt": "2022-04-16 12:36:53.063177",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f7"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc791"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625abcd003aa1b6b598f3c02"
+  },
+  "createdAt": "2022-04-16 12:55:44.389214",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Late_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f7"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc78d"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625abeb403aa1b6b598f3c03"
+  },
+  "createdAt": "2022-04-16 13:03:48.815571",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Late_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f7"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc78d"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625abf3003aa1b6b598f3c04"
+  },
+  "createdAt": "2022-04-16 13:05:52.682482",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Late_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f7"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc78d"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625abfcb03aa1b6b598f3c05"
+  },
+  "createdAt": "2022-04-16 13:08:27.343127",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Late_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f7"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc78d"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ac04203aa1b6b598f3c06"
+  },
+  "createdAt": "2022-04-16 13:10:26.175673",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___Late_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f7"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc78d"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ac16013d8eae7becb7b47"
+  },
+  "createdAt": "2022-04-16 13:15:12.904213",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ac1e213d8eae7becb7b48"
+  },
+  "createdAt": "2022-04-16 13:17:22.321091",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f8"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc787"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625ac1f313d8eae7becb7b49"
+  },
+  "createdAt": "2022-04-16 13:17:39.679026",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625bca11e3c3c0ab2ba98614"
+  },
+  "createdAt": "2022-04-17 08:04:33.265025",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f8"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc787"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625bcb82b7900ef29e8403ac"
+  },
+  "createdAt": "2022-04-17 08:10:42.693488",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625bcd026fbad57793598741"
+  },
+  "createdAt": "2022-04-17 08:17:06.059536",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625bdea4682de44d88734f4e"
+  },
+  "createdAt": "2022-04-17 09:32:20.889509",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f8"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc787"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625bdec5682de44d88734f4f"
+  },
+  "createdAt": "2022-04-17 09:32:53.624318",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fa"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc782"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625bdf8613d8eae7becb7b4a"
+  },
+  "createdAt": "2022-04-17 09:36:06.388749",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625bdf91682de44d88734f50"
+  },
+  "createdAt": "2022-04-17 09:36:17.867620",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625be02313d8eae7becb7b4b"
+  },
+  "createdAt": "2022-04-17 09:38:43.272586",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "Maharashtra",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625be0e54cb62447e596edc0"
+  },
+  "createdAt": "2022-04-17 15:11:57.531306",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f8"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc787"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625be14c4cb62447e596edc1"
+  },
+  "createdAt": "2022-04-17 15:13:40.432639",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Potato___Early_blight",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f8"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc787"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625be35205920538ad36a99c"
+  },
+  "createdAt": "2022-04-17 15:22:18.356995",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___healthy",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f7"
+  },
+  "diseaseId": {
+    "$oid": "507f191e810c19729de860ea"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625be368e9024077cfc78ed4"
+  },
+  "createdAt": "2022-04-17 15:22:40.290691",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Tomato___healthy",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f7"
+  },
+  "diseaseId": {
+    "$oid": "507f191e810c19729de860ea"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625be7e10d455d891c0d06e2"
+  },
+  "createdAt": "2022-04-17 10:11:45.873691",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fa"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc782"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625be80a0d455d891c0d06e3"
+  },
+  "createdAt": "2022-04-17 10:12:26.347838",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Cedar_apple_rust",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc780"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625be81d0d455d891c0d06e4"
+  },
+  "createdAt": "2022-04-17 10:12:45.339693",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Potato___healthy",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f8"
+  },
+  "diseaseId": {
+    "$oid": "507f191e810c19729de860ea"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625be9c4b1c8b65b422d5fe1"
+  },
+  "createdAt": "2022-04-17 10:19:48.760745",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "625be9dfb1c8b65b422d5fe2"
+  },
+  "createdAt": "2022-04-17 10:20:15.694357",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Corn_(maize)___Common_rust_",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fa"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc782"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "627002003a8ae07a0a97fd98"
+  },
+  "createdAt": "2022-05-02 16:08:32.946157",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Potato___healthy",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26f8"
+  },
+  "diseaseId": {
+    "$oid": "507f191e810c19729de860ea"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "627002123a8ae07a0a97fd99"
+  },
+  "createdAt": "2022-05-02 16:08:50.556207",
+  "ip": "13143536",
+  "city": "Mumbai",
+  "district": "Mumbai City",
+  "state": "MH",
+  "location": {
+    "lat": 11.4652,
+    "lon": 242.24
+  },
+  "detected_class": "Apple___Apple_scab",
+  "plantId": {
+    "$oid": "623c1f5024012459d84a26fc"
+  },
+  "diseaseId": {
+    "$oid": "623c14678cfba8fc77adc77e"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "62f556805b315de05c307c61"
+  },
+  "createdAt": "2022-08-11 19:20:31.554632",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  }
+},{
+  "_id": {
+    "$oid": "62f557215b315de05c307c62"
+  },
+  "createdAt": "2022-08-11 19:23:13.744685",
+  "plantId": {
+    "$oid": "623a3d74960a9f8526395e08"
+  }
+}]

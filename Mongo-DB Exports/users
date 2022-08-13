@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "625bc39cce7aacae30d3bb54"
+  },
+  "firstName": "Dhruv",
+  "lastName": "Solanki",
+  "username": "dhruv",
+  "phone": "7738879019",
+  "password": "$2b$10$NWV8LXsMd9vUtZ5Pfd41Luq0gTtwNa9.RiHYfHhiLR0Twmn7kGBRO",
+  "email":"kk@gmail.com",
+  "type": "farmer",
+  "detectionHistory": []
+}]

@@ -1,0 +1,95 @@
+{% extends 'base.html' %}
+
+{% block title %}
+DHI | Verfication
+{% endblock %}
+
+{% block content %}
+
+<body class="sub_page">
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container">
+          <a class="navbar-brand" href="index.html">
+            <span>
+              Fashal Mithra - Plant Disease Predictor
+            </span>
+          </a>
+
+          <div class="navbar-collapse" id="">
+            <div class="custom_menu-btn">
+              <button onclick="openNav()">
+                <span class="s-1"> </span>
+                <span class="s-2"> </span>
+                <span class="s-3"> </span>
+              </button>
+            </div>
+            <div id="myNav" class="overlay">
+              <div class="overlay-content">
+                <a href="/">HOME</a>
+                <a href="/about">ABOUT</a>
+                <a href="/createid">CREATE ID</a>
+                <a href="/contact">CONTACT US</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+  </div>
+
+<!-- feature section -->
+<section class="feature_section layout_padding2 layout_margin">
+  <div class="container">
+    <div class="heading_container">
+      <h2>
+        Download your Health ID from here :
+        <br>
+        <span style="font-size: small; color: black"> DHI - DIgital health Identity Card </span>
+      </h2>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-sm-4">
+          <div class="card">
+            <div class="card-body text-center">
+              <h5 class="card-title text-center">Download in the PDF Format</h5>
+              <p class="card-text text-center">Click on the Download Button to download as a PDF Format</p>
+              <form action="/downloadpdf" method="post">
+              <button class="btn btn-primary">Download - PDF</button>
+            </form>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="card">
+            <div class="card-body text-center">
+              <h5 class="card-title text-center">Send it to Mail</h5>
+              <p class="card-text text-center">Click on the button to send the pdf as attachment to respective Email</p>
+              <form action="/shareemail" method="post"></form>
+              <button class="btn btn-primary">Share - Email</button>
+            </form>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card text-center">
+              <div class="card-body">
+                <h5 class="card-title text-center">Send it to whatsapp</h5>
+                <form action="/sharewhatsapp" method="post"></form>
+                <p class="card-text text-center">Click on the button to share the card to your whatsapp number</p>
+                <button class="btn btn-primary">Share - Whatsapp</button>
+              </form>
+              </div>
+            </div>
+          </div>
+      </div>
+  </div>
+    
+</section> 
+
+<!-- end feature section -->
+{% endblock %}

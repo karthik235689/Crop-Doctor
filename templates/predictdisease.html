@@ -1,0 +1,81 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Predictions
+{% endblock %}
+
+{% block content %}
+
+<body class="sub_page">
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container">
+          <a class="navbar-brand" href="index.html">
+            <span>
+              Fashal Mithra - Plant Disease Predictor
+            </span>
+          </a>
+
+          <div class="navbar-collapse" id="">
+            <div class="custom_menu-btn">
+              <button onclick="openNav()">
+                <span class="s-1"> </span>
+                <span class="s-2"> </span>
+                <span class="s-3"> </span>
+              </button>
+            </div>
+            <div id="myNav" class="overlay">
+              <div class="overlay-content">
+                <a href="/">Home</a>
+                <a href="/about">About</a>
+                <a href="/dashboard">Dashboard</a>
+                <a href="/upload">Disease Prediction</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+  </div>
+
+
+  <!-- contact section -->
+  <section class="contact_section layout_padding">
+    <div class="container">
+      <div class="d-flex ">
+        <h2>
+          Uploaded Image For Prediction
+        </h2>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+            <div class="heading_container d-flex justify-content-lg-start">
+                <h2>
+                  <div class="container justify-content-center"></div>
+                    <div class="card" style="width: 50rem;">
+                        {% if file_url %}
+                            <img src="{{ file_url }}">
+                        {% endif %}           
+                        <div class="card-body">
+                        <div class="container">
+                        <div class="mb-3">
+                        <form action='/predict' method="POST" enctype="multipart/form-data">
+                                {{ form.hidden_tag() }}
+                                {{ form.submit }}
+                           </form> 
+                          </p>
+                        </div>
+                      </div>     
+                    </div>
+                    <div class="col-md-6">
+                    <div class="contact_img-box">
+            <img src="images/contact-img.png" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{% endblock %}

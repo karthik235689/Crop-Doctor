@@ -1,0 +1,68 @@
+{% extends 'base.html' %}
+
+{% block title %}
+DHI | Verification
+{% endblock %}
+
+{% block content %}
+
+<body class="sub_page">
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container">
+          <a class="navbar-brand" href="index.html">
+            <span>
+              Digital Health ID
+            </span>
+          </a>
+
+          <div class="navbar-collapse" id="">
+            <div class="custom_menu-btn">
+              <button onclick="openNav()">
+                <span class="s-1"> </span>
+                <span class="s-2"> </span>
+                <span class="s-3"> </span>
+              </button>
+            </div>
+            <div id="myNav" class="overlay">
+              <div class="overlay-content">
+                <a href="/">HOME</a>
+                <a href="/about">ABOUT</a>
+                <a href="/createid">CREATE ID</a>
+                <a href="/contact">CONTACT US</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+  </div>
+
+<!-- feature section -->
+<section class="feature_section layout_padding2 layout_margin">
+  <div class="container">
+    <div class="heading_container">
+      <h2>
+        Verfication for your Email Address
+      </h2>
+    </div>
+  </div>
+
+  <form action="/verify/email/validate" method="POST">
+  <div class="container">
+    <div class="mb-3">
+      <label for="exampleFormControlInput1" class="form-label">Enter the OTP</label>
+      <input type="text" name="otp" class="form-control" id="exampleFormControlInput1" placeholder="Enter your OTP sent to your Email Address">
+    </div>
+    <div class="mb-3">
+      <button class="btn btn-primary" type="submit">Verfiy Otp</button>
+    </div>
+  </div>  
+</form>        
+</section> 
+
+<!-- end feature section -->
+{% endblock %}

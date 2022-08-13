@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Predictions 
+{% endblock %}
+
+
+{% block content %}
+
+<body class="sub_page">
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container">
+          <a class="navbar-brand" href="index.html">
+            <span>
+              Fashal Mithra - Plant Disease Predictor
+            </span>
+          </a>
+
+          <div class="navbar-collapse" id="">
+            <div class="custom_menu-btn">
+              <button onclick="openNav()">
+                <span class="s-1"> </span>
+                <span class="s-2"> </span>
+                <span class="s-3"> </span>
+              </button>
+            </div>
+            <div id="myNav" class="overlay">
+              <div class="overlay-content">
+                <a href="/">Home</a>
+                <a href="/about">About</a>
+                <a href="/dashboard">Dashboard</a>
+                <a href="/upload">Disease Prediction</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+  </div>
+
+
+  <!-- about section -->
+  <section class="download_section">
+    <div class="container">
+      <br>
+      <h2 class="text-center">Upload the Image for <b>Prediction</b></h2>
+      <br>
+      <form action="/predict" method="POST" enctype="multipart/form-data">
+        <div class="container">
+          {{ form.hidden_tag() }}
+          <div class="mb-3">
+            {{ form.photo(class="form-control input-lg", placeholder="Enter your Last Name")}}
+          </div>
+          {% for error in form.photo.errors %}
+          <span style="color: red;">{{ error }}</span>
+          {% endfor %}
+          <div class="mb-3">
+            {{ form.submit(class="btn btn-lg btn-block btn-primary")}}
+          </div>
+        </div>
+      </form> 
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  </section>
+
+  <!-- end about section -->
+
+{% endblock %}
+
+
+

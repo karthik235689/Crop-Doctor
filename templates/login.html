@@ -1,0 +1,82 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Create ID
+{% endblock %}
+
+{% block content %}
+
+<body class="sub_page">
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container">
+          <a class="navbar-brand" href="index.html">
+            <span>
+              Fashal Mithra - Plant Disease Predictor
+            </span>
+          </a>
+
+          <div class="navbar-collapse" id="">
+            <div class="custom_menu-btn">
+              <button onclick="openNav()">
+                <span class="s-1"> </span>
+                <span class="s-2"> </span>
+                <span class="s-3"> </span>
+              </button>
+            </div>
+            <div id="myNav" class="overlay">
+              <div class="overlay-content">
+                <a href="/">Home</a>
+                <a href="/about">About</a>
+                <a href="/dashboard">Dashboard</a>
+                <a href="/upload">Disease Prediction</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+  </div>
+
+  <!-- feature section -->
+  <section class="feature_section layout_padding2 layout_margin">
+    <div class="container">
+      <div class="heading_container">
+        <h2>
+          Login
+        </h2>
+      </div>
+    </div>
+
+    <form action="/logged_in"  method="POST">
+      {{form.hidden_tag()}}
+      <div class="row">
+        <div class="col-md-4 error-msg"></div>
+        <div class="col-md-4 error-msg text-center">
+          {% if error %}
+          <div class="error-msg" style="color: red;">{{ error }}</div>
+          {% endif %}
+        </div>
+        <div class="col-md-4 error-msg"></div>
+      </div>
+      <div class="container">
+      <div class="mb-3">
+        {{ form.email_address.label(class="form-label") }}
+        {{ form.email_address(class="form-control", placeholder="name@Enter.com") }} 
+      </div>
+      <div class="mb-3">
+        <label>{{ form.password.label(class="form-label") }}</label>
+        {{ form.password(class="form-control", placeholder="Enter a Unique Password") }} 
+      </div>
+      <div class="mb-3">
+        {{ form.submit(class="btn btn-lg btn-block btn-primary") }}
+      </div>
+    </div>  
+  </form>        
+  </section> 
+
+  <!-- end feature section -->
+{% endblock %}

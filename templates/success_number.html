@@ -1,0 +1,59 @@
+{% extends 'base.html' %}
+
+{% block title %}
+DHI | Verfication
+{% endblock %}
+
+{% block content %}
+
+<body class="sub_page">
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container">
+          <a class="navbar-brand" href="index.html">
+            <span>
+              Fashal Mithra - Plant Disease Predictor
+            </span>
+          </a>
+
+          <div class="navbar-collapse" id="">
+            <div class="custom_menu-btn">
+              <button onclick="openNav()">
+                <span class="s-1"> </span>
+                <span class="s-2"> </span>
+                <span class="s-3"> </span>
+              </button>
+            </div>
+            <div id="myNav" class="overlay">
+              <div class="overlay-content">
+                <a href="/">HOME</a>
+                <a href="/about">ABOUT</a>
+                <a href="/createid">CREATE ID</a>
+                <a href="/contact">CONTACT US</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+  </div>
+
+<!-- feature section -->
+<section class="feature_section layout_padding2 layout_margin">
+  <form action="/email" method="POST">
+  <div class="container">
+    <div class="mb-3">
+      <label for="exampleFormControlInput1" class="form-label">Mobile Number is successfully Verfied</label>
+    </div>
+    <div class="mb-3">
+      <button class="btn btn-primary" type="submit" >Verfiy Email</button>
+    </div>
+  </div>  
+</form>        
+</section> 
+
+<!-- end feature section -->
+{% endblock %}

@@ -1,0 +1,94 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Predictions
+{% endblock %}
+
+
+{% block content %}
+
+<body class="sub_page">
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container">
+          <a class="navbar-brand" href="index.html">
+            <span>
+              Fashal Mithra - Plant Disease Predictor
+            </span>
+          </a>
+
+          <div class="navbar-collapse" id="">
+            <div class="custom_menu-btn">
+              <button onclick="openNav()">
+                <span class="s-1"> </span>
+                <span class="s-2"> </span>
+                <span class="s-3"> </span>
+              </button>
+            </div>
+            <div id="myNav" class="overlay">
+              <div class="overlay-content">
+                <a href="/">Home</a>
+                <a href="/about">About</a>
+                <a href="/dashboard">Dashboard</a>
+                <a href="/upload">Disease Prediction</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+  </div>
+
+
+  <!-- about section -->
+  <section class="download_section">
+          <div class="container py-4">
+            <header class="pb-3 mb-4 border-bottom">
+              <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+                <span class="fs-4"><h2>Prediction Results</h2></span>
+              </a>
+            </header>
+        
+            <div class="p-5 mb-4 bg-light rounded-3">
+              <div class="container-fluid py-5">
+                <h1 class="display-5 fw-bold">
+                  {{ plant_info["commonName"] }}
+                </h1>
+                <p>Plant Name</p>
+                <br>
+                <p><b>Plant Scientific Name</b> - {{ plant_info["scientificName"] }}</p>
+                <p><b>Plant Description</b> - {{ plant_info["description"] }}</p>
+              </div>
+            </div>
+
+            <div class="p-5 mb-4 bg-light rounded-3">
+              <div class="container-fluid py-5">
+                <h1 class="display-5 fw-bold">
+                  {{ disease_info["name"] }}
+                </h1>
+                <p>Disease Name</p>
+                <br>
+                <p><b>Disease Symptoms</b> - {{ disease_info["symptoms"] }}</p>
+                <p><b>Disease Trigger</b> - {{ disease_info["trigger"] }}</p>
+                <p><b>Disease Organic</b> - {{ disease_info["organic"] }}</p>
+              </div>
+            </div>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+    </div>
+  </section>
+
+  <!-- end about section -->
+
+{% endblock %}

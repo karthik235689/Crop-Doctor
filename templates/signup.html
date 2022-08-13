@@ -1,0 +1,124 @@
+{% extends 'base.html' %}
+
+{% block title %}
+DHI | Create ID
+{% endblock %}
+
+{% block content %}
+
+<body class="sub_page">
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container">
+          <a class="navbar-brand" href="index.html">
+            <span>
+              Fashal Mithra - Plant Disease Predictor
+            </span>
+          </a>
+
+          <div class="navbar-collapse" id="">
+            <div class="custom_menu-btn">
+              <button onclick="openNav()">
+                <span class="s-1"> </span>
+                <span class="s-2"> </span>
+                <span class="s-3"> </span>
+              </button>
+            </div>
+            <div id="myNav" class="overlay">
+              <div class="overlay-content">
+                <a href="/">Home</a>
+                <a href="/about">About</a>
+                <a href="/dashboard">Dashboard</a>
+                <a href="/upload">Disease Prediction</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+  </div>
+
+  <!-- feature section -->
+  <section class="feature_section layout_padding2 layout_margin">
+    <div class="container">
+      <div class="heading_container">
+        <h2>
+          Register
+        </h2>
+      </div>
+    </div>
+
+    <form action="/verify"  method="POST">
+      {{form.hidden_tag()}}
+      <div class="row">
+        <div class="col-md-4 error-msg"></div>
+        <div class="col-md-4 error-msg text-center">
+          {% if error %}
+          <div class="error-msg" style="color: red;">{{ error }}</div>
+          {% endif %}
+        </div>
+        <div class="col-md-4 error-msg"></div>
+      </div>
+      <div class="container">
+      <div class="mb-3">
+        {{ form.firstname.label(class="form-label") }}
+        {{ form.firstname(class="form-control", placeholder="Enter your First Name")}}            
+      </div>
+      <div class="mb-3">
+        {{ form.lastname.label(class="form-label") }}
+        {{ form.lastname(class="form-control", placeholder="Enter your Last Name")}} 
+      </div>
+      <div class="mb-3">
+        {{ form.mobile_number.label(class="form-label") }}
+        {{ form.lastname(class="form-control", placeholder="+91 XXXXXXXXX")}} 
+      </div>
+      <div class="mb-3">
+        {{ form.email_address.label(class="form-label") }}
+        {{ form.email_address(class="form-control", placeholder="name@Enter.com") }} 
+      </div>
+      <div class="mb-3">
+        <label>{{ form.password1.label(class="form-label") }}</label>
+        {{ form.password1(class="form-control", placeholder="Enter a Unique Password") }} 
+      </div>
+      <div class="mb-3">
+        <label>{{ form.password2.label(class="form-label") }}</label>
+        {{ form.password2(class="form-control", placeholder="Confirm Password") }} 
+      </div>
+      <div class="mb-6">
+        <label>{{ form.city.label(class="form-label") }}</label>
+        {{ form.city(class="form-control", placeholder="Please provide a city") }} 
+      </div>
+      <br>
+      <div class="mb-3">
+        <label>{{ form.state.label(class="form-label") }}</label>
+        {{ form.state(class="form-control", placeholder="Please provide a state") }} 
+      </div>
+      <div class="md-3">
+        <label>{{ form.zip.label(class="form-label") }}</label>
+        {{ form.zip(class="form-control", placeholder="Please provide a zip") }}
+      </div>
+      <br>
+      <!--
+      <div class="mb-3">
+        <div class="form-check">
+          <input class="form-check-input" name="check" type="checkbox" value="" id="invalidCheck3" aria-describedby="invalidCheck3Feedback">
+          <label class="form-check-label" for="invalidCheck3">
+            Agree to terms and conditions
+          </label>
+          <br>
+          <span style="color: red;font-size: small;">Agree the check box before submitting</span>
+        </div>
+      </div>
+      -->
+      <div class="mb-3">
+        {{ form.submit(class="btn btn-lg btn-block btn-primary") }}
+      </div>
+    </div>  
+  </form>        
+  </section> 
+
+  <!-- end feature section -->
+{% endblock %}
