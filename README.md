@@ -27,7 +27,7 @@ This process for building a model which can detect the disease assocaited with t
 
 3. Training
 
-   The model was trained by using variants of above layers mentioned in model building and by varying hyperparameters. The best model was able to achieve 98.42% of test accuracy.
+   The model was trained on total dataset size of 80000 images by using variants of above layers mentioned in model building and by varying hyperparameters. The best model was able to achieve 98.42% of test accuracy.
 
 4. Testing
 
